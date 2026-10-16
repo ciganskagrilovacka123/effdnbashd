@@ -1,0 +1,21 @@
+body{background: linear-gradient(to left, rgb(231, 255, 10)20%, rgb(113, 226, 7));
+  
+color: rgb(5, 9, 243);
+font-family: sans-serif;}
+h1{text-align: center;}
+p{width: 600px;
+margin-left: 300px;
+line-height: 1.5;
+text-align: justify;
+nav{padding-left: 50px;
+    width: 300px;
+line-height: 2;}
+.vpravo{float: right;}
+.vlevo{float: left;}
+
+img{margin-right: 100px;} 
+a:link{color: rgba(221, 2, 2, 0.76);}
+a:visited{color: black;}
+a:active{color: blue;}
+a:hover{color: blanchedalmond; background-color: color-mix(in srgb-linear, black 30%, white 70%);}
+
